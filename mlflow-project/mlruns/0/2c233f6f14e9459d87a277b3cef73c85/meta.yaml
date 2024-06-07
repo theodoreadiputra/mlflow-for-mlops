@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2c233f6f14e9459d87a277b3cef73c85/artifacts
+deleted_time: 1717674612041
+end_time: 1717673050403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c233f6f14e9459d87a277b3cef73c85
+run_name: dapper-squirrel-742
+run_uuid: 2c233f6f14e9459d87a277b3cef73c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673046435
+status: 4
+tags: []
+user_id: theo

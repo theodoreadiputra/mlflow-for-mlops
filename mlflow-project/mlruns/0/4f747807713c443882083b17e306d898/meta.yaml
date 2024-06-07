@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4f747807713c443882083b17e306d898/artifacts
+deleted_time: 1717676562401
+end_time: 1717674746612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4f747807713c443882083b17e306d898
+run_name: handsome-flea-204
+run_uuid: 4f747807713c443882083b17e306d898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674744956
+status: 3
+tags: []
+user_id: theo

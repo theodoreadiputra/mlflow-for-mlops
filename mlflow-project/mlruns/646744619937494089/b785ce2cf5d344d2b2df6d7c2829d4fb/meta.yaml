@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/b785ce2cf5d344d2b2df6d7c2829d4fb/artifacts
+end_time: 1717679457783
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: b785ce2cf5d344d2b2df6d7c2829d4fb
+run_name: bright-hen-756
+run_uuid: b785ce2cf5d344d2b2df6d7c2829d4fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679453939
+status: 3
+tags: []
+user_id: theo

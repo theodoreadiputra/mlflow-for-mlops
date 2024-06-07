@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/d5d062641f6e410e9ee76253c52735a4/artifacts
+deleted_time: 1717678839422
+end_time: 1717678676329
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: d5d062641f6e410e9ee76253c52735a4
+run_name: secretive-snail-980
+run_uuid: d5d062641f6e410e9ee76253c52735a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678671377
+status: 4
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d6eeb1f78aa44ecab3b02b7409816437/artifacts
+deleted_time: 1717676562412
+end_time: 1717674727032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d6eeb1f78aa44ecab3b02b7409816437
+run_name: sneaky-hawk-255
+run_uuid: d6eeb1f78aa44ecab3b02b7409816437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674725428
+status: 3
+tags: []
+user_id: theo

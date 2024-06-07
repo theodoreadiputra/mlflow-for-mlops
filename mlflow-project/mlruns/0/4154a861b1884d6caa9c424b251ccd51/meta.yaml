@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4154a861b1884d6caa9c424b251ccd51/artifacts
+deleted_time: 1717674617406
+end_time: 1717674521526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4154a861b1884d6caa9c424b251ccd51
+run_name: intelligent-loon-821
+run_uuid: 4154a861b1884d6caa9c424b251ccd51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674519738
+status: 3
+tags: []
+user_id: theo

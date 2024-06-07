@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/a690dd98dd224bceae3a299377ecfa9d/artifacts
+end_time: 1717679990355
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: a690dd98dd224bceae3a299377ecfa9d
+run_name: silent-roo-516
+run_uuid: a690dd98dd224bceae3a299377ecfa9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679989941
+status: 3
+tags: []
+user_id: theo

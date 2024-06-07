@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6998e5beb3d249abbebb8a67245f5439/artifacts
+deleted_time: 1717674617398
+end_time: 1717674534772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6998e5beb3d249abbebb8a67245f5439
+run_name: crawling-hen-582
+run_uuid: 6998e5beb3d249abbebb8a67245f5439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674533056
+status: 3
+tags: []
+user_id: theo

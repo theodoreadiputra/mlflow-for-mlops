@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6711c347f3484814ad3448362b3bc776/artifacts
+deleted_time: 1717676562427
+end_time: 1717674664874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6711c347f3484814ad3448362b3bc776
+run_name: trusting-mole-188
+run_uuid: 6711c347f3484814ad3448362b3bc776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674662471
+status: 3
+tags: []
+user_id: theo

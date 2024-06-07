@@ -1,0 +1,10 @@
+[('preprocessing', ColumnTransformer(transformers=[('numerical', SimpleImputer(strategy='median'),
+                                 ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms',
+                                  'Population', 'AveOccup', 'Latitude',
+                                  'Longitude']),
+                                ('categorical',
+                                 OneHotEncoder(handle_unknown='ignore'), []),
+                                ('decomposition', PCA(n_components=2),
+                                 ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms',
+                                  'Population', 'AveOccup', 'Latitude',
+                                  'Longitude'])])), ('model', RandomForestClassifier(max_depth=40, n_estimators=140))]

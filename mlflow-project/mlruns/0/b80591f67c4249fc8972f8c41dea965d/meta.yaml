@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b80591f67c4249fc8972f8c41dea965d/artifacts
+deleted_time: 1717676562399
+end_time: 1717674813928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b80591f67c4249fc8972f8c41dea965d
+run_name: sassy-loon-193
+run_uuid: b80591f67c4249fc8972f8c41dea965d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674810044
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/62c32f73387e42dd8487961a96f5fdd7/artifacts
+deleted_time: 1717674617422
+end_time: 1717674405417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 62c32f73387e42dd8487961a96f5fdd7
+run_name: marvelous-mole-524
+run_uuid: 62c32f73387e42dd8487961a96f5fdd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674403081
+status: 3
+tags: []
+user_id: theo

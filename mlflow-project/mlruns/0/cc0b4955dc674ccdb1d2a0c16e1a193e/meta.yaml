@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/cc0b4955dc674ccdb1d2a0c16e1a193e/artifacts
+deleted_time: 1717676562430
+end_time: 1717674654658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cc0b4955dc674ccdb1d2a0c16e1a193e
+run_name: upbeat-finch-867
+run_uuid: cc0b4955dc674ccdb1d2a0c16e1a193e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674652122
+status: 3
+tags: []
+user_id: theo

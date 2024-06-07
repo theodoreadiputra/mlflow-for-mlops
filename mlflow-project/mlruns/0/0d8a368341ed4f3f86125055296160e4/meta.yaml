@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0d8a368341ed4f3f86125055296160e4/artifacts
+deleted_time: 1717674617462
+end_time: 1717673231610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0d8a368341ed4f3f86125055296160e4
+run_name: valuable-bee-803
+run_uuid: 0d8a368341ed4f3f86125055296160e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673227785
+status: 3
+tags: []
+user_id: theo

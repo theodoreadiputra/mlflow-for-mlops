@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/24907fef25bc4221aefe64fc107de10e/artifacts
+end_time: 1717678421431
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 24907fef25bc4221aefe64fc107de10e
+run_name: capable-calf-325
+run_uuid: 24907fef25bc4221aefe64fc107de10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678419935
+status: 3
+tags: []
+user_id: theo

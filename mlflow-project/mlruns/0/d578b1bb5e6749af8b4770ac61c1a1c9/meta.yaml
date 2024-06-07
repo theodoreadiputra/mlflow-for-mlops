@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d578b1bb5e6749af8b4770ac61c1a1c9/artifacts
+deleted_time: 1717674612039
+end_time: 1717673173954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d578b1bb5e6749af8b4770ac61c1a1c9
+run_name: charming-cub-160
+run_uuid: d578b1bb5e6749af8b4770ac61c1a1c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673170711
+status: 3
+tags: []
+user_id: theo

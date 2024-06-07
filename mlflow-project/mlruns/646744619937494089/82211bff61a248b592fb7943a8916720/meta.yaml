@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/82211bff61a248b592fb7943a8916720/artifacts
+deleted_time: 1717680117309
+end_time: 1717679794029
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: 82211bff61a248b592fb7943a8916720
+run_name: adorable-swan-28
+run_uuid: 82211bff61a248b592fb7943a8916720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679791711
+status: 3
+tags: []
+user_id: theo

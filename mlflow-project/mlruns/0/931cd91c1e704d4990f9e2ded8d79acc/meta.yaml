@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/931cd91c1e704d4990f9e2ded8d79acc/artifacts
+deleted_time: 1717676562389
+end_time: 1717674830819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 931cd91c1e704d4990f9e2ded8d79acc
+run_name: rare-cod-648
+run_uuid: 931cd91c1e704d4990f9e2ded8d79acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674829152
+status: 3
+tags: []
+user_id: theo

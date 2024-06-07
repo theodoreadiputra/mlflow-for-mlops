@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/dd6834c7d4ef468783f7f6a5c281a077/artifacts
+end_time: 1717680025117
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: dd6834c7d4ef468783f7f6a5c281a077
+run_name: big-donkey-47
+run_uuid: dd6834c7d4ef468783f7f6a5c281a077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717680020283
+status: 3
+tags: []
+user_id: theo

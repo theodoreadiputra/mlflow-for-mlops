@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/152ede437bb0453083e684016f2829c6/artifacts
+deleted_time: 1717674617429
+end_time: 1717674202461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 152ede437bb0453083e684016f2829c6
+run_name: crawling-kite-61
+run_uuid: 152ede437bb0453083e684016f2829c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674196420
+status: 3
+tags: []
+user_id: theo

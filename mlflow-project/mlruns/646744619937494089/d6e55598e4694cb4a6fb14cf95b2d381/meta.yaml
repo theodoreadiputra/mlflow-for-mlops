@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/d6e55598e4694cb4a6fb14cf95b2d381/artifacts
+deleted_time: 1717678839419
+end_time: 1717678752903
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: d6e55598e4694cb4a6fb14cf95b2d381
+run_name: righteous-mouse-389
+run_uuid: d6e55598e4694cb4a6fb14cf95b2d381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678747021
+status: 3
+tags: []
+user_id: theo

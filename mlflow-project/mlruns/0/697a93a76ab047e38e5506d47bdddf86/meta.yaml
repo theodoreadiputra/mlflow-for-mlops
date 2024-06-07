@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/697a93a76ab047e38e5506d47bdddf86/artifacts
+deleted_time: 1717674617453
+end_time: 1717673823203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 697a93a76ab047e38e5506d47bdddf86
+run_name: zealous-gull-524
+run_uuid: 697a93a76ab047e38e5506d47bdddf86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673821904
+status: 3
+tags: []
+user_id: theo

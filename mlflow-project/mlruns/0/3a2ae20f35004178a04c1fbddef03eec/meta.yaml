@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3a2ae20f35004178a04c1fbddef03eec/artifacts
+deleted_time: 1717674617456
+end_time: 1717673247880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3a2ae20f35004178a04c1fbddef03eec
+run_name: beautiful-pig-810
+run_uuid: 3a2ae20f35004178a04c1fbddef03eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673245203
+status: 3
+tags: []
+user_id: theo

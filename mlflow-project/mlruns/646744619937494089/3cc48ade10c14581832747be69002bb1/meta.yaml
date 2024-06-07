@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/3cc48ade10c14581832747be69002bb1/artifacts
+end_time: 1717678807260
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 3cc48ade10c14581832747be69002bb1
+run_name: amusing-stoat-88
+run_uuid: 3cc48ade10c14581832747be69002bb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678801886
+status: 3
+tags: []
+user_id: theo

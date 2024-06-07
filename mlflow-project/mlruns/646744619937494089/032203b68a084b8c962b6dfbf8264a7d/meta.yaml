@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/032203b68a084b8c962b6dfbf8264a7d/artifacts
+end_time: 1717680000500
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 032203b68a084b8c962b6dfbf8264a7d
+run_name: honorable-deer-477
+run_uuid: 032203b68a084b8c962b6dfbf8264a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679998506
+status: 3
+tags: []
+user_id: theo

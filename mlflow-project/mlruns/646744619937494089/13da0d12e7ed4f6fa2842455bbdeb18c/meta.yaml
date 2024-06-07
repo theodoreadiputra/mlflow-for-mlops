@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/13da0d12e7ed4f6fa2842455bbdeb18c/artifacts
+end_time: 1717676744515
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 13da0d12e7ed4f6fa2842455bbdeb18c
+run_name: puzzled-deer-205
+run_uuid: 13da0d12e7ed4f6fa2842455bbdeb18c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717676740266
+status: 3
+tags: []
+user_id: theo

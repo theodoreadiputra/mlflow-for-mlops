@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a29bc56daec5474eacc02fc239c9e27c/artifacts
+deleted_time: 1717674617422
+end_time: 1717674403077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a29bc56daec5474eacc02fc239c9e27c
+run_name: trusting-carp-351
+run_uuid: a29bc56daec5474eacc02fc239c9e27c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674399545
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/3f02ca76a5ec45f68774cf990bf6011e/artifacts
+end_time: 1717678913633
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 3f02ca76a5ec45f68774cf990bf6011e
+run_name: stately-carp-978
+run_uuid: 3f02ca76a5ec45f68774cf990bf6011e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678911154
+status: 3
+tags: []
+user_id: theo

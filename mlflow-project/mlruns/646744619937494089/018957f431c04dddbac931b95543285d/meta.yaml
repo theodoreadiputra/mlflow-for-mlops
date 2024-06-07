@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/018957f431c04dddbac931b95543285d/artifacts
+end_time: 1717678429157
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 018957f431c04dddbac931b95543285d
+run_name: unleashed-asp-718
+run_uuid: 018957f431c04dddbac931b95543285d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678428385
+status: 3
+tags: []
+user_id: theo

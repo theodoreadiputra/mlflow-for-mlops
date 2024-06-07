@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4a478bb8c628403a851d0eb5116e822b/artifacts
+deleted_time: 1717674617420
+end_time: 1717674424759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4a478bb8c628403a851d0eb5116e822b
+run_name: vaunted-perch-137
+run_uuid: 4a478bb8c628403a851d0eb5116e822b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674421078
+status: 3
+tags: []
+user_id: theo

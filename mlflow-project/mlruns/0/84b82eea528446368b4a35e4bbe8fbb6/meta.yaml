@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/84b82eea528446368b4a35e4bbe8fbb6/artifacts
+deleted_time: 1717674617453
+end_time: 1717673251848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 84b82eea528446368b4a35e4bbe8fbb6
+run_name: auspicious-newt-577
+run_uuid: 84b82eea528446368b4a35e4bbe8fbb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673247886
+status: 3
+tags: []
+user_id: theo

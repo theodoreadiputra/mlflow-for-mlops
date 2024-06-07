@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/1f11e124cf8f42039eab2ce2d6a5ab4c/artifacts
+deleted_time: 1717680117309
+end_time: 1717679816792
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: 1f11e124cf8f42039eab2ce2d6a5ab4c
+run_name: merciful-cow-273
+run_uuid: 1f11e124cf8f42039eab2ce2d6a5ab4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679813607
+status: 3
+tags: []
+user_id: theo

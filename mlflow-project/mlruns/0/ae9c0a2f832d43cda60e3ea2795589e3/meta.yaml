@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ae9c0a2f832d43cda60e3ea2795589e3/artifacts
+deleted_time: 1717676562410
+end_time: 1717674739526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ae9c0a2f832d43cda60e3ea2795589e3
+run_name: traveling-shrimp-87
+run_uuid: ae9c0a2f832d43cda60e3ea2795589e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674735892
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a3a65e28f3e14d38848ed4caf4d1da5f/artifacts
+deleted_time: 1717674617409
+end_time: 1717674515262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a3a65e28f3e14d38848ed4caf4d1da5f
+run_name: luminous-cub-64
+run_uuid: a3a65e28f3e14d38848ed4caf4d1da5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674510085
+status: 3
+tags: []
+user_id: theo

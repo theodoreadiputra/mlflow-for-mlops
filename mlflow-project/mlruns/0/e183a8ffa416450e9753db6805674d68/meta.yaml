@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e183a8ffa416450e9753db6805674d68/artifacts
+deleted_time: 1717676562357
+end_time: 1717674955422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e183a8ffa416450e9753db6805674d68
+run_name: popular-perch-607
+run_uuid: e183a8ffa416450e9753db6805674d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674950605
+status: 3
+tags: []
+user_id: theo

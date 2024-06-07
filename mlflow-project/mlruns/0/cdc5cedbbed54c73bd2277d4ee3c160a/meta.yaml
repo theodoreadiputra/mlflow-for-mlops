@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/cdc5cedbbed54c73bd2277d4ee3c160a/artifacts
+deleted_time: 1717674617438
+end_time: 1717673861709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cdc5cedbbed54c73bd2277d4ee3c160a
+run_name: debonair-hare-545
+run_uuid: cdc5cedbbed54c73bd2277d4ee3c160a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673857195
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/8157b1c68c3a496580c0b20367a7979b/artifacts
+deleted_time: 1717678839418
+end_time: 1717678755349
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: 8157b1c68c3a496580c0b20367a7979b
+run_name: grandiose-vole-975
+run_uuid: 8157b1c68c3a496580c0b20367a7979b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678752906
+status: 4
+tags: []
+user_id: theo

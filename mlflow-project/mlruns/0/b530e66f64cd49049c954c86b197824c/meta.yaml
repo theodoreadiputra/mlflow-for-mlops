@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b530e66f64cd49049c954c86b197824c/artifacts
+deleted_time: 1717676562369
+end_time: 1717674934052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b530e66f64cd49049c954c86b197824c
+run_name: thundering-smelt-916
+run_uuid: b530e66f64cd49049c954c86b197824c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674929636
+status: 3
+tags: []
+user_id: theo

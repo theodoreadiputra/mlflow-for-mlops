@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/057a3ec9e0024056910affe63e51e9c7/artifacts
+end_time: 1717679448715
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 057a3ec9e0024056910affe63e51e9c7
+run_name: kindly-rat-522
+run_uuid: 057a3ec9e0024056910affe63e51e9c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679445251
+status: 3
+tags: []
+user_id: theo

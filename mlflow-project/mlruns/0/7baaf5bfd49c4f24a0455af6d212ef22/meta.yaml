@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7baaf5bfd49c4f24a0455af6d212ef22/artifacts
+deleted_time: 1717674617464
+end_time: 1717673227781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7baaf5bfd49c4f24a0455af6d212ef22
+run_name: silent-yak-606
+run_uuid: 7baaf5bfd49c4f24a0455af6d212ef22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673223864
+status: 3
+tags: []
+user_id: theo

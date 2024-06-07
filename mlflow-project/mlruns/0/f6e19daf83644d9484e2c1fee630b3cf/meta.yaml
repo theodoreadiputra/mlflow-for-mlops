@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f6e19daf83644d9484e2c1fee630b3cf/artifacts
+deleted_time: 1717674617409
+end_time: 1717674519153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f6e19daf83644d9484e2c1fee630b3cf
+run_name: carefree-shark-695
+run_uuid: f6e19daf83644d9484e2c1fee630b3cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674515265
+status: 3
+tags: []
+user_id: theo

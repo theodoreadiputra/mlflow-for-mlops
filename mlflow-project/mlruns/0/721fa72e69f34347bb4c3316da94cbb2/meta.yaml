@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/721fa72e69f34347bb4c3316da94cbb2/artifacts
+deleted_time: 1717676562443
+end_time: 1717674646673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 721fa72e69f34347bb4c3316da94cbb2
+run_name: powerful-steed-344
+run_uuid: 721fa72e69f34347bb4c3316da94cbb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674645023
+status: 3
+tags: []
+user_id: theo

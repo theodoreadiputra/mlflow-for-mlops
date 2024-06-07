@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6c29fadd99384cd1b6cf725ff8477dcb/artifacts
+deleted_time: 1717676562360
+end_time: 1717674949782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6c29fadd99384cd1b6cf725ff8477dcb
+run_name: indecisive-flea-579
+run_uuid: 6c29fadd99384cd1b6cf725ff8477dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674945390
+status: 3
+tags: []
+user_id: theo

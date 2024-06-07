@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5b2deb164e624a3a96b9397b0cb5e15e/artifacts
+deleted_time: 1717676562445
+end_time: 1717674643379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5b2deb164e624a3a96b9397b0cb5e15e
+run_name: brawny-gull-49
+run_uuid: 5b2deb164e624a3a96b9397b0cb5e15e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674638619
+status: 3
+tags: []
+user_id: theo

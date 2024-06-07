@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6d00f83727de4eac8f553bf77225982a/artifacts
+deleted_time: 1717676562388
+end_time: 1717674829149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6d00f83727de4eac8f553bf77225982a
+run_name: wise-pig-448
+run_uuid: 6d00f83727de4eac8f553bf77225982a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674826462
+status: 3
+tags: []
+user_id: theo

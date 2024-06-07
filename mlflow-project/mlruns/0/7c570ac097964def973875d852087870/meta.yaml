@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7c570ac097964def973875d852087870/artifacts
+deleted_time: 1717676562445
+end_time: 1717674638617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7c570ac097964def973875d852087870
+run_name: defiant-quail-973
+run_uuid: 7c570ac097964def973875d852087870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674637525
+status: 3
+tags: []
+user_id: theo

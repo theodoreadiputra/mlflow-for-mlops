@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/312e609eafd742488ccb2dea79465feb/artifacts
+deleted_time: 1717676562410
+end_time: 1717674735889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 312e609eafd742488ccb2dea79465feb
+run_name: painted-robin-19
+run_uuid: 312e609eafd742488ccb2dea79465feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674733214
+status: 3
+tags: []
+user_id: theo

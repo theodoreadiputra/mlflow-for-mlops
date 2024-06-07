@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1a2cc2cd974e46b484a368181ed57048/artifacts
+deleted_time: 1717676562411
+end_time: 1717674731049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1a2cc2cd974e46b484a368181ed57048
+run_name: selective-calf-306
+run_uuid: 1a2cc2cd974e46b484a368181ed57048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674729165
+status: 3
+tags: []
+user_id: theo

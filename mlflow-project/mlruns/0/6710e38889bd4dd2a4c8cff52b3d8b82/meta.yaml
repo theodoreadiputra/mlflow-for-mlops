@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6710e38889bd4dd2a4c8cff52b3d8b82/artifacts
+deleted_time: 1717674617471
+end_time: 1717673222845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6710e38889bd4dd2a4c8cff52b3d8b82
+run_name: whimsical-ape-400
+run_uuid: 6710e38889bd4dd2a4c8cff52b3d8b82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673221591
+status: 3
+tags: []
+user_id: theo

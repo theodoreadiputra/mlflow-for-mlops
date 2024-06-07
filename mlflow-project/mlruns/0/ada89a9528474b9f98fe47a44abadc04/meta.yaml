@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ada89a9528474b9f98fe47a44abadc04/artifacts
+deleted_time: 1717674617429
+end_time: 1717674399541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ada89a9528474b9f98fe47a44abadc04
+run_name: peaceful-conch-915
+run_uuid: ada89a9528474b9f98fe47a44abadc04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674394466
+status: 3
+tags: []
+user_id: theo

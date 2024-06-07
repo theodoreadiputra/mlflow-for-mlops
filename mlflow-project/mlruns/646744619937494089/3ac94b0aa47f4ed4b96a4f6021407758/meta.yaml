@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/3ac94b0aa47f4ed4b96a4f6021407758/artifacts
+end_time: 1717676754080
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 3ac94b0aa47f4ed4b96a4f6021407758
+run_name: selective-snake-702
+run_uuid: 3ac94b0aa47f4ed4b96a4f6021407758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717676750880
+status: 3
+tags: []
+user_id: theo

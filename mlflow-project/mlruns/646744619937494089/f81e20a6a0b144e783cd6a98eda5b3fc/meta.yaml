@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/f81e20a6a0b144e783cd6a98eda5b3fc/artifacts
+end_time: 1717678428382
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: f81e20a6a0b144e783cd6a98eda5b3fc
+run_name: unruly-mouse-263
+run_uuid: f81e20a6a0b144e783cd6a98eda5b3fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678427100
+status: 3
+tags: []
+user_id: theo

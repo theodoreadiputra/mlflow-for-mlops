@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bfd0269e5d1f4103b3d91ac6980314f0/artifacts
+deleted_time: 1717674612032
+end_time: 1717673181327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bfd0269e5d1f4103b3d91ac6980314f0
+run_name: stately-bear-375
+run_uuid: bfd0269e5d1f4103b3d91ac6980314f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673177888
+status: 3
+tags: []
+user_id: theo

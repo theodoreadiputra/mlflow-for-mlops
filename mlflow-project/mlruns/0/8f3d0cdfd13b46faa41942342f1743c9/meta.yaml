@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8f3d0cdfd13b46faa41942342f1743c9/artifacts
+deleted_time: 1717674612039
+end_time: 1717673170708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8f3d0cdfd13b46faa41942342f1743c9
+run_name: redolent-snake-477
+run_uuid: 8f3d0cdfd13b46faa41942342f1743c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673169406
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/6496f8b1f34e4d3c8768630d0ecdf694/artifacts
+end_time: 1717678936774
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 6496f8b1f34e4d3c8768630d0ecdf694
+run_name: omniscient-bear-1
+run_uuid: 6496f8b1f34e4d3c8768630d0ecdf694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678935743
+status: 3
+tags: []
+user_id: theo

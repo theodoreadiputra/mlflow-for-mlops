@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4ffdaa20a5e645c0916246e9e384c196/artifacts
+deleted_time: 1717674617431
+end_time: 1717674191468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4ffdaa20a5e645c0916246e9e384c196
+run_name: mercurial-moth-624
+run_uuid: 4ffdaa20a5e645c0916246e9e384c196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674186201
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/04ef01a4fa604f04b276f8a8fd84f9f6/artifacts
+deleted_time: 1717674617446
+end_time: 1717673835699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 04ef01a4fa604f04b276f8a8fd84f9f6
+run_name: puzzled-shrew-456
+run_uuid: 04ef01a4fa604f04b276f8a8fd84f9f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673827542
+status: 3
+tags: []
+user_id: theo

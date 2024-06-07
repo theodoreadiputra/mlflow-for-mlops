@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/91ac08344b3b4505938fa07145585bf9/artifacts
+end_time: 1717680045010
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 91ac08344b3b4505938fa07145585bf9
+run_name: industrious-ant-656
+run_uuid: 91ac08344b3b4505938fa07145585bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717680043732
+status: 3
+tags: []
+user_id: theo

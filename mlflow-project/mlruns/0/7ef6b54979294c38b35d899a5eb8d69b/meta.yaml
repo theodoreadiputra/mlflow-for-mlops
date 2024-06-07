@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7ef6b54979294c38b35d899a5eb8d69b/artifacts
+deleted_time: 1717674612030
+end_time: 1717673185091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7ef6b54979294c38b35d899a5eb8d69b
+run_name: smiling-hound-730
+run_uuid: 7ef6b54979294c38b35d899a5eb8d69b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673183832
+status: 3
+tags: []
+user_id: theo

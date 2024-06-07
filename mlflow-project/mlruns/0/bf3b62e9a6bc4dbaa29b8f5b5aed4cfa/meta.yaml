@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bf3b62e9a6bc4dbaa29b8f5b5aed4cfa/artifacts
+deleted_time: 1717674612047
+end_time: 1717672256166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bf3b62e9a6bc4dbaa29b8f5b5aed4cfa
+run_name: marvelous-quail-521
+run_uuid: bf3b62e9a6bc4dbaa29b8f5b5aed4cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717672249755
+status: 4
+tags: []
+user_id: theo

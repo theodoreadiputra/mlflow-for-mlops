@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/47764924a7e04581aa13fdd05a459e7e/artifacts
+deleted_time: 1717674617453
+end_time: 1717673821900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 47764924a7e04581aa13fdd05a459e7e
+run_name: big-fowl-286
+run_uuid: 47764924a7e04581aa13fdd05a459e7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673816709
+status: 3
+tags: []
+user_id: theo

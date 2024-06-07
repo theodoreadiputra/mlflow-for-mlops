@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/7cab54ca3385483782cf08291be36a5a/artifacts
+end_time: 1717676763463
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 7cab54ca3385483782cf08291be36a5a
+run_name: carefree-dolphin-88
+run_uuid: 7cab54ca3385483782cf08291be36a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717676758934
+status: 3
+tags: []
+user_id: theo

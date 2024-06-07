@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/b33fba6a08784155a08bbddeea388380/artifacts
+end_time: 1717678925113
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: b33fba6a08784155a08bbddeea388380
+run_name: puzzled-horse-431
+run_uuid: b33fba6a08784155a08bbddeea388380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678922374
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/5228efd0d44a4dcf8f3c02df1f9ca793/artifacts
+deleted_time: 1717680117312
+end_time: 1717679799199
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: 5228efd0d44a4dcf8f3c02df1f9ca793
+run_name: nimble-asp-43
+run_uuid: 5228efd0d44a4dcf8f3c02df1f9ca793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679796009
+status: 3
+tags: []
+user_id: theo

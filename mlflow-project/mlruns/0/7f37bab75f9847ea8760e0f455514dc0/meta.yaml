@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7f37bab75f9847ea8760e0f455514dc0/artifacts
+deleted_time: 1717676562367
+end_time: 1717674945386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7f37bab75f9847ea8760e0f455514dc0
+run_name: crawling-turtle-241
+run_uuid: 7f37bab75f9847ea8760e0f455514dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674942488
+status: 3
+tags: []
+user_id: theo

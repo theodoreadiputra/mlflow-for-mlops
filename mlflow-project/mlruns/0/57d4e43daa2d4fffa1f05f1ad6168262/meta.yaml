@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/57d4e43daa2d4fffa1f05f1ad6168262/artifacts
+deleted_time: 1717676562399
+end_time: 1717674817462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 57d4e43daa2d4fffa1f05f1ad6168262
+run_name: intrigued-boar-630
+run_uuid: 57d4e43daa2d4fffa1f05f1ad6168262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674813932
+status: 3
+tags: []
+user_id: theo

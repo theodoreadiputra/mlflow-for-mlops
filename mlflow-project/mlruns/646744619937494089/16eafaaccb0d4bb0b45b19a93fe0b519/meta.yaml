@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/16eafaaccb0d4bb0b45b19a93fe0b519/artifacts
+deleted_time: 1717680117321
+end_time: 1717679811134
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: 16eafaaccb0d4bb0b45b19a93fe0b519
+run_name: burly-turtle-980
+run_uuid: 16eafaaccb0d4bb0b45b19a93fe0b519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679807465
+status: 3
+tags: []
+user_id: theo

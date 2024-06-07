@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8ce90f2ae53d457da7b0cf8e920ca96a/artifacts
+deleted_time: 1717674612023
+end_time: 1717673188997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8ce90f2ae53d457da7b0cf8e920ca96a
+run_name: salty-vole-553
+run_uuid: 8ce90f2ae53d457da7b0cf8e920ca96a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673186361
+status: 3
+tags: []
+user_id: theo

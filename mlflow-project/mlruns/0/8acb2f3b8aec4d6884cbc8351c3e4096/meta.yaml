@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8acb2f3b8aec4d6884cbc8351c3e4096/artifacts
+deleted_time: 1717674617429
+end_time: 1717674205767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8acb2f3b8aec4d6884cbc8351c3e4096
+run_name: dashing-dove-81
+run_uuid: 8acb2f3b8aec4d6884cbc8351c3e4096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674202466
+status: 3
+tags: []
+user_id: theo

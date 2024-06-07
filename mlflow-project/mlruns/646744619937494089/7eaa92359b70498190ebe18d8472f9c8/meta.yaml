@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/7eaa92359b70498190ebe18d8472f9c8/artifacts
+deleted_time: 1717680117321
+end_time: 1717679805940
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: 7eaa92359b70498190ebe18d8472f9c8
+run_name: handsome-lynx-191
+run_uuid: 7eaa92359b70498190ebe18d8472f9c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679804677
+status: 3
+tags: []
+user_id: theo

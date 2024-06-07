@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/6a93be6b03fe484781f224c1e9824d6e/artifacts
+end_time: 1717679985443
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 6a93be6b03fe484781f224c1e9824d6e
+run_name: sassy-carp-84
+run_uuid: 6a93be6b03fe484781f224c1e9824d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679984913
+status: 3
+tags: []
+user_id: theo

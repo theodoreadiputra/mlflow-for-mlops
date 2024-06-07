@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/11510b1db4ba4af499d905a9df61ad09/artifacts
+deleted_time: 1717676562402
+end_time: 1717674744953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 11510b1db4ba4af499d905a9df61ad09
+run_name: able-ram-656
+run_uuid: 11510b1db4ba4af499d905a9df61ad09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674740136
+status: 3
+tags: []
+user_id: theo

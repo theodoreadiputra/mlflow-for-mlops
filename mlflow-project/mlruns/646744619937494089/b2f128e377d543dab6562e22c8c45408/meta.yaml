@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/b2f128e377d543dab6562e22c8c45408/artifacts
+end_time: 1717678925876
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: b2f128e377d543dab6562e22c8c45408
+run_name: polite-goat-96
+run_uuid: b2f128e377d543dab6562e22c8c45408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678925117
+status: 3
+tags: []
+user_id: theo

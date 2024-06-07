@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/d08901043f4b43299c8da34261e1e286/artifacts
+end_time: 1717676756218
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: d08901043f4b43299c8da34261e1e286
+run_name: magnificent-dove-417
+run_uuid: d08901043f4b43299c8da34261e1e286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717676754082
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2ac7129d29734170af31b71b0f09eef3/artifacts
+deleted_time: 1717674617444
+end_time: 1717673857192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2ac7129d29734170af31b71b0f09eef3
+run_name: rogue-cod-362
+run_uuid: 2ac7129d29734170af31b71b0f09eef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673852611
+status: 3
+tags: []
+user_id: theo

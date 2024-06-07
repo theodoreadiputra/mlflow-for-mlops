@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bb0a846b3bcd423a91c3d372647c6c81/artifacts
+deleted_time: 1717674617462
+end_time: 1717673234465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bb0a846b3bcd423a91c3d372647c6c81
+run_name: fearless-ram-779
+run_uuid: bb0a846b3bcd423a91c3d372647c6c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673231613
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d902a18ba71043afa08c7c76311fe9b0/artifacts
+deleted_time: 1717674617436
+end_time: 1717674180202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d902a18ba71043afa08c7c76311fe9b0
+run_name: rogue-seal-72
+run_uuid: d902a18ba71043afa08c7c76311fe9b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674178162
+status: 3
+tags: []
+user_id: theo

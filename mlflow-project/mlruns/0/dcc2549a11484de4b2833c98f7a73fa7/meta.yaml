@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/dcc2549a11484de4b2833c98f7a73fa7/artifacts
+deleted_time: 1717676562412
+end_time: 1717674729163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dcc2549a11484de4b2833c98f7a73fa7
+run_name: merciful-lark-460
+run_uuid: dcc2549a11484de4b2833c98f7a73fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674727034
+status: 3
+tags: []
+user_id: theo

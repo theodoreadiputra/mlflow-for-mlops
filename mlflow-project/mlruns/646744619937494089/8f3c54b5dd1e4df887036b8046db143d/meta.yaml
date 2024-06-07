@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/8f3c54b5dd1e4df887036b8046db143d/artifacts
+end_time: 1717680013957
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 8f3c54b5dd1e4df887036b8046db143d
+run_name: hyperparameter_optimization
+run_uuid: 8f3c54b5dd1e4df887036b8046db143d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679984904
+status: 3
+tags: []
+user_id: theo

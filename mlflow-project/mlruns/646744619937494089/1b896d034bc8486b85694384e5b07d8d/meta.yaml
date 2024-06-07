@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/1b896d034bc8486b85694384e5b07d8d/artifacts
+end_time: 1717678419932
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 1b896d034bc8486b85694384e5b07d8d
+run_name: placid-horse-50
+run_uuid: 1b896d034bc8486b85694384e5b07d8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678418195
+status: 3
+tags: []
+user_id: theo

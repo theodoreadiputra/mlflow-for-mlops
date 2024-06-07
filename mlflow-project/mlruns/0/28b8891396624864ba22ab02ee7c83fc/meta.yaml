@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/28b8891396624864ba22ab02ee7c83fc/artifacts
+deleted_time: 1717674617420
+end_time: 1717674409012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 28b8891396624864ba22ab02ee7c83fc
+run_name: monumental-fox-881
+run_uuid: 28b8891396624864ba22ab02ee7c83fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674405422
+status: 3
+tags: []
+user_id: theo

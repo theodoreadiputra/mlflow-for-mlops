@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/079d677823cd47aea1b8ee05a33aac82/artifacts
+deleted_time: 1717674617397
+end_time: 1717674543104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 079d677823cd47aea1b8ee05a33aac82
+run_name: wistful-dog-101
+run_uuid: 079d677823cd47aea1b8ee05a33aac82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674538198
+status: 3
+tags: []
+user_id: theo

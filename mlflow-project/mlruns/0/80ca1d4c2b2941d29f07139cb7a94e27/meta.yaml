@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/80ca1d4c2b2941d29f07139cb7a94e27/artifacts
+deleted_time: 1717674617413
+end_time: 1717674429015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 80ca1d4c2b2941d29f07139cb7a94e27
+run_name: adorable-wren-318
+run_uuid: 80ca1d4c2b2941d29f07139cb7a94e27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674424763
+status: 3
+tags: []
+user_id: theo

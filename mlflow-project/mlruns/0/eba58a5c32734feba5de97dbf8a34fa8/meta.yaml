@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/eba58a5c32734feba5de97dbf8a34fa8/artifacts
+deleted_time: 1717674617444
+end_time: 1717673844372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eba58a5c32734feba5de97dbf8a34fa8
+run_name: resilient-newt-929
+run_uuid: eba58a5c32734feba5de97dbf8a34fa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673841053
+status: 3
+tags: []
+user_id: theo

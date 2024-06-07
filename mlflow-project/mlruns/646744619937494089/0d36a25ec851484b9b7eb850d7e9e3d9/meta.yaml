@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/0d36a25ec851484b9b7eb850d7e9e3d9/artifacts
+end_time: 1717679995017
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 0d36a25ec851484b9b7eb850d7e9e3d9
+run_name: sneaky-pig-588
+run_uuid: 0d36a25ec851484b9b7eb850d7e9e3d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679990358
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b02ab1537c2d4ff3887e8981f2907638/artifacts
+deleted_time: 1717676562402
+end_time: 1717674740134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b02ab1537c2d4ff3887e8981f2907638
+run_name: nimble-kit-810
+run_uuid: b02ab1537c2d4ff3887e8981f2907638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674739529
+status: 3
+tags: []
+user_id: theo

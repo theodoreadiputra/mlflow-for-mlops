@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/76535ec7ba9f4946a5b726b2245aee15/artifacts
+end_time: 1717680005513
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 76535ec7ba9f4946a5b726b2245aee15
+run_name: tasteful-mare-922
+run_uuid: 76535ec7ba9f4946a5b726b2245aee15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717680001280
+status: 3
+tags: []
+user_id: theo

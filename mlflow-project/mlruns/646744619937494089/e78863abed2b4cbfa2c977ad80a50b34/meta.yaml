@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/e78863abed2b4cbfa2c977ad80a50b34/artifacts
+deleted_time: 1717680117316
+end_time: 1717679804674
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: e78863abed2b4cbfa2c977ad80a50b34
+run_name: polite-turtle-259
+run_uuid: e78863abed2b4cbfa2c977ad80a50b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679803679
+status: 3
+tags: []
+user_id: theo

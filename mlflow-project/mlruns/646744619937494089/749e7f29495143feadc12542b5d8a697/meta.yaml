@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/749e7f29495143feadc12542b5d8a697/artifacts
+deleted_time: 1717678839422
+end_time: 1717678704149
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: 749e7f29495143feadc12542b5d8a697
+run_name: loud-penguin-144
+run_uuid: 749e7f29495143feadc12542b5d8a697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678697765
+status: 4
+tags: []
+user_id: theo

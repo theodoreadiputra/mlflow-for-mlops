@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/54e08364c1494cd197cb3c50da6e77d0/artifacts
+end_time: 1717679453936
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 54e08364c1494cd197cb3c50da6e77d0
+run_name: calm-conch-906
+run_uuid: 54e08364c1494cd197cb3c50da6e77d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679453102
+status: 3
+tags: []
+user_id: theo

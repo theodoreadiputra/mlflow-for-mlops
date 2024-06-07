@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/4a86c0f0ff2144b7a38086727611cdb3/artifacts
+end_time: 1717678432805
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 4a86c0f0ff2144b7a38086727611cdb3
+run_name: useful-chimp-350
+run_uuid: 4a86c0f0ff2144b7a38086727611cdb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678429161
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2335a2b6a4bc450d92654ccaa524e44f/artifacts
+deleted_time: 1717674617431
+end_time: 1717674196415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2335a2b6a4bc450d92654ccaa524e44f
+run_name: languid-lamb-408
+run_uuid: 2335a2b6a4bc450d92654ccaa524e44f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674191473
+status: 3
+tags: []
+user_id: theo

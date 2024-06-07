@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/758776023c2d4c5f9840aa2789165675/artifacts
+deleted_time: 1717674617401
+end_time: 1717674523731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 758776023c2d4c5f9840aa2789165675
+run_name: blushing-cub-340
+run_uuid: 758776023c2d4c5f9840aa2789165675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674521529
+status: 3
+tags: []
+user_id: theo

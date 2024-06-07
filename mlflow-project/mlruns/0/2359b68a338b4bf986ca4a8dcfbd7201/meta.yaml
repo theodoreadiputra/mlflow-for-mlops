@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2359b68a338b4bf986ca4a8dcfbd7201/artifacts
+deleted_time: 1717676562427
+end_time: 1717674662467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2359b68a338b4bf986ca4a8dcfbd7201
+run_name: indecisive-lamb-575
+run_uuid: 2359b68a338b4bf986ca4a8dcfbd7201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674657918
+status: 3
+tags: []
+user_id: theo

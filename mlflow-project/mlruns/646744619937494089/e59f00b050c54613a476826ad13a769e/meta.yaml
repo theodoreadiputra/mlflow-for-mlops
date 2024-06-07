@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/e59f00b050c54613a476826ad13a769e/artifacts
+end_time: 1717679453099
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: e59f00b050c54613a476826ad13a769e
+run_name: resilient-finch-668
+run_uuid: e59f00b050c54613a476826ad13a769e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679448718
+status: 3
+tags: []
+user_id: theo

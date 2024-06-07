@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/0a9f08af746a4075b850d3620dffdd8d/artifacts
+deleted_time: 1717680117316
+end_time: 1717679803674
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: 0a9f08af746a4075b850d3620dffdd8d
+run_name: resilient-snail-317
+run_uuid: 0a9f08af746a4075b850d3620dffdd8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679799202
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b23936dcde1e49108d0dd663e7f3082f/artifacts
+deleted_time: 1717676562388
+end_time: 1717674833165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b23936dcde1e49108d0dd663e7f3082f
+run_name: bouncy-vole-918
+run_uuid: b23936dcde1e49108d0dd663e7f3082f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674830821
+status: 3
+tags: []
+user_id: theo

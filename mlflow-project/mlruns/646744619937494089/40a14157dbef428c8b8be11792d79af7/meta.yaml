@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/40a14157dbef428c8b8be11792d79af7/artifacts
+end_time: 1717676609552
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 40a14157dbef428c8b8be11792d79af7
+run_name: fortunate-jay-514
+run_uuid: 40a14157dbef428c8b8be11792d79af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717676603571
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/661117305483916231/e084032319ed4c60a72ff6e141119c52/artifacts
+deleted_time: 1717674612047
+end_time: 1717672465672
+entry_point_name: ''
+experiment_id: '661117305483916231'
+lifecycle_stage: deleted
+run_id: e084032319ed4c60a72ff6e141119c52
+run_name: spiffy-elk-755
+run_uuid: e084032319ed4c60a72ff6e141119c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717672461436
+status: 3
+tags: []
+user_id: theo

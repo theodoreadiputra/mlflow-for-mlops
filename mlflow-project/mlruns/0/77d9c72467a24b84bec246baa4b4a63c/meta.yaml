@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/77d9c72467a24b84bec246baa4b4a63c/artifacts
+deleted_time: 1717674617444
+end_time: 1717673852608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 77d9c72467a24b84bec246baa4b4a63c
+run_name: auspicious-sheep-344
+run_uuid: 77d9c72467a24b84bec246baa4b4a63c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673851800
+status: 3
+tags: []
+user_id: theo

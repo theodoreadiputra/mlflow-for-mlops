@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/fa7e3014e1404b4284a07eb95b1eea38/artifacts
+end_time: 1717678801883
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: fa7e3014e1404b4284a07eb95b1eea38
+run_name: gifted-fowl-366
+run_uuid: fa7e3014e1404b4284a07eb95b1eea38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678798561
+status: 3
+tags: []
+user_id: theo

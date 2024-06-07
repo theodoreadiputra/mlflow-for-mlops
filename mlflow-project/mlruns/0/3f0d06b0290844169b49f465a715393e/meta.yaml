@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3f0d06b0290844169b49f465a715393e/artifacts
+deleted_time: 1717674617436
+end_time: 1717674178159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3f0d06b0290844169b49f465a715393e
+run_name: enthused-loon-169
+run_uuid: 3f0d06b0290844169b49f465a715393e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674176464
+status: 3
+tags: []
+user_id: theo

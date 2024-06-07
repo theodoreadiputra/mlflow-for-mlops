@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0c545a6fd6cf42ad831b559130453e5d/artifacts
+deleted_time: 1717674617400
+end_time: 1717674527820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0c545a6fd6cf42ad831b559130453e5d
+run_name: amazing-shrike-204
+run_uuid: 0c545a6fd6cf42ad831b559130453e5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674523733
+status: 3
+tags: []
+user_id: theo

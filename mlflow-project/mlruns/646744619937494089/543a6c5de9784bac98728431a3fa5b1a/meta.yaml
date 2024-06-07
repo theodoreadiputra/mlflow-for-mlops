@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/543a6c5de9784bac98728431a3fa5b1a/artifacts
+deleted_time: 1717680117323
+end_time: 1717679813604
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: 543a6c5de9784bac98728431a3fa5b1a
+run_name: powerful-croc-359
+run_uuid: 543a6c5de9784bac98728431a3fa5b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679811137
+status: 3
+tags: []
+user_id: theo

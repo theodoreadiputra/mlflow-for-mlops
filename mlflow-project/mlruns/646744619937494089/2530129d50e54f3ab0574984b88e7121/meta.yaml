@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/2530129d50e54f3ab0574984b88e7121/artifacts
+end_time: 1717678418192
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 2530129d50e54f3ab0574984b88e7121
+run_name: judicious-koi-268
+run_uuid: 2530129d50e54f3ab0574984b88e7121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678417775
+status: 3
+tags: []
+user_id: theo

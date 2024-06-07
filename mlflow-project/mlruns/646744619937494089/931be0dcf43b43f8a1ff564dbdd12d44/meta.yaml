@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/931be0dcf43b43f8a1ff564dbdd12d44/artifacts
+end_time: 1717680001277
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 931be0dcf43b43f8a1ff564dbdd12d44
+run_name: unique-frog-441
+run_uuid: 931be0dcf43b43f8a1ff564dbdd12d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717680000503
+status: 3
+tags: []
+user_id: theo

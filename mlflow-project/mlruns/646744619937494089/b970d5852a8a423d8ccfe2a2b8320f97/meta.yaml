@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/b970d5852a8a423d8ccfe2a2b8320f97/artifacts
+end_time: 1717678929079
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: b970d5852a8a423d8ccfe2a2b8320f97
+run_name: thundering-fowl-297
+run_uuid: b970d5852a8a423d8ccfe2a2b8320f97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678925879
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1717672465378
+current_stage: None
+description: null
+last_updated_timestamp: 1717672465378
+name: registered_model
+run_id: e084032319ed4c60a72ff6e141119c52
+run_link: null
+source: file:///home/theo/Documents/mlflow-project/mlruns/661117305483916231/e084032319ed4c60a72ff6e141119c52/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/theo/Documents/mlflow-project/mlruns/661117305483916231/e084032319ed4c60a72ff6e141119c52/artifacts/model
+user_id: null
+version: 1

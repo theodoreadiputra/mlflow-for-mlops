@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/661117305483916231/99623381dc5b4ef1aab007d129f21411/artifacts
+deleted_time: 1717674612041
+end_time: 1717672500548
+entry_point_name: ''
+experiment_id: '661117305483916231'
+lifecycle_stage: deleted
+run_id: 99623381dc5b4ef1aab007d129f21411
+run_name: nervous-crane-627
+run_uuid: 99623381dc5b4ef1aab007d129f21411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717672496256
+status: 3
+tags: []
+user_id: theo

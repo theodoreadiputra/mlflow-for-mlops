@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/eb1b772ed3574f61a137b1afde563299/artifacts
+end_time: 1717680043729
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: eb1b772ed3574f61a137b1afde563299
+run_name: monumental-shad-976
+run_uuid: eb1b772ed3574f61a137b1afde563299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717680040398
+status: 3
+tags: []
+user_id: theo

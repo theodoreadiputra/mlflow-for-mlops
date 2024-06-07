@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/4992a23e60364610b87d1a4ae352aaa0/artifacts
+end_time: 1717679459874
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 4992a23e60364610b87d1a4ae352aaa0
+run_name: learned-hen-991
+run_uuid: 4992a23e60364610b87d1a4ae352aaa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679459085
+status: 3
+tags: []
+user_id: theo

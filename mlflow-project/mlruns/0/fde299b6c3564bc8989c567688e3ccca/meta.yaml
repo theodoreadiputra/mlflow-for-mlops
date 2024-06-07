@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fde299b6c3564bc8989c567688e3ccca/artifacts
+deleted_time: 1717676562391
+end_time: 1717674822320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fde299b6c3564bc8989c567688e3ccca
+run_name: polite-mare-764
+run_uuid: fde299b6c3564bc8989c567688e3ccca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674817465
+status: 3
+tags: []
+user_id: theo

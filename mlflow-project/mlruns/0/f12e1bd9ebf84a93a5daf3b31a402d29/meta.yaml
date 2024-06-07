@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f12e1bd9ebf84a93a5daf3b31a402d29/artifacts
+deleted_time: 1717676562388
+end_time: 1717674838113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f12e1bd9ebf84a93a5daf3b31a402d29
+run_name: masked-foal-331
+run_uuid: f12e1bd9ebf84a93a5daf3b31a402d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674833168
+status: 3
+tags: []
+user_id: theo

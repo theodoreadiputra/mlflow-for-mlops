@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/bffc0b90d09c4c81a335df82f2c6fcd0/artifacts
+end_time: 1717680040394
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: bffc0b90d09c4c81a335df82f2c6fcd0
+run_name: gifted-rat-934
+run_uuid: bffc0b90d09c4c81a335df82f2c6fcd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717680035895
+status: 3
+tags: []
+user_id: theo

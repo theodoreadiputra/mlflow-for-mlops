@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/539be062a33d4f2fbc9726c7a4f27499/artifacts
+deleted_time: 1717674617438
+end_time: 1717674172880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 539be062a33d4f2fbc9726c7a4f27499
+run_name: abundant-conch-756
+run_uuid: 539be062a33d4f2fbc9726c7a4f27499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674170911
+status: 3
+tags: []
+user_id: theo

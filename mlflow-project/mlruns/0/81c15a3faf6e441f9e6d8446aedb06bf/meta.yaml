@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/81c15a3faf6e441f9e6d8446aedb06bf/artifacts
+deleted_time: 1717674612047
+end_time: 1717672441799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 81c15a3faf6e441f9e6d8446aedb06bf
+run_name: beautiful-shark-523
+run_uuid: 81c15a3faf6e441f9e6d8446aedb06bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717672439764
+status: 4
+tags: []
+user_id: theo

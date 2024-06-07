@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/378921d76c944b659213fcd36efe8242/artifacts
+deleted_time: 1717674617453
+end_time: 1717673827539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 378921d76c944b659213fcd36efe8242
+run_name: melodic-bass-190
+run_uuid: 378921d76c944b659213fcd36efe8242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673823206
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9bebbeb035994b248833d3d8c0538884/artifacts
+deleted_time: 1717674612030
+end_time: 1717673183829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9bebbeb035994b248833d3d8c0538884
+run_name: honorable-rat-538
+run_uuid: 9bebbeb035994b248833d3d8c0538884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673182097
+status: 3
+tags: []
+user_id: theo

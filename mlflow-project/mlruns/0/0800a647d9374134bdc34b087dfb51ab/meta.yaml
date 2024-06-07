@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0800a647d9374134bdc34b087dfb51ab/artifacts
+deleted_time: 1717674617420
+end_time: 1717674415287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0800a647d9374134bdc34b087dfb51ab
+run_name: clumsy-finch-178
+run_uuid: 0800a647d9374134bdc34b087dfb51ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674409016
+status: 3
+tags: []
+user_id: theo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/821ae11295f24b0bae969362671f7d1a/artifacts
+deleted_time: 1717676562399
+end_time: 1717674810041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 821ae11295f24b0bae969362671f7d1a
+run_name: intrigued-calf-643
+run_uuid: 821ae11295f24b0bae969362671f7d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674806037
+status: 3
+tags: []
+user_id: theo

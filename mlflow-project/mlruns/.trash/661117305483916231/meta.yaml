@@ -1,0 +1,7 @@
+artifact_location: file:///home/theo/Documents/mlflow-project/mlruns/661117305483916231
+creation_time: 1717672461342
+experiment_id: '661117305483916231'
+last_update_time: 1717674622347
+lifecycle_stage: deleted
+name: house_pricing_classifier
+tags: {}

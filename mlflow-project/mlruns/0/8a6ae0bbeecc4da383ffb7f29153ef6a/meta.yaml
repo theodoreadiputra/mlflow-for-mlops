@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8a6ae0bbeecc4da383ffb7f29153ef6a/artifacts
+deleted_time: 1717674617399
+end_time: 1717674533053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8a6ae0bbeecc4da383ffb7f29153ef6a
+run_name: abrasive-horse-157
+run_uuid: 8a6ae0bbeecc4da383ffb7f29153ef6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674527822
+status: 3
+tags: []
+user_id: theo

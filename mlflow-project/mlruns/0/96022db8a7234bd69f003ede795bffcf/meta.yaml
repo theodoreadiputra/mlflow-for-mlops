@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/96022db8a7234bd69f003ede795bffcf/artifacts
+deleted_time: 1717676562372
+end_time: 1717674841105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 96022db8a7234bd69f003ede795bffcf
+run_name: fearless-penguin-12
+run_uuid: 96022db8a7234bd69f003ede795bffcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674838116
+status: 3
+tags: []
+user_id: theo

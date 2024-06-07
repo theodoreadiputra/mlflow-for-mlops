@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b07426eb41a54a07ad1742084f28e43b/artifacts
+deleted_time: 1717676562355
+end_time: 1717674961563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b07426eb41a54a07ad1742084f28e43b
+run_name: fearless-ape-202
+run_uuid: b07426eb41a54a07ad1742084f28e43b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674956738
+status: 3
+tags: []
+user_id: theo

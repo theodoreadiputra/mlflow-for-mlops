@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/739ac78148204aec8364fc8c226c496f/artifacts
+deleted_time: 1717674617462
+end_time: 1717673242639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 739ac78148204aec8364fc8c226c496f
+run_name: traveling-sheep-232
+run_uuid: 739ac78148204aec8364fc8c226c496f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673237531
+status: 3
+tags: []
+user_id: theo

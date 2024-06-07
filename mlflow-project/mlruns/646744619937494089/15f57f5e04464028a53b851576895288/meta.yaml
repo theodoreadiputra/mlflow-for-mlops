@@ -1,0 +1,15 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/15f57f5e04464028a53b851576895288/artifacts
+end_time: 1717678922368
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: active
+run_id: 15f57f5e04464028a53b851576895288
+run_name: caring-snail-583
+run_uuid: 15f57f5e04464028a53b851576895288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717678918611
+status: 3
+tags: []
+user_id: theo

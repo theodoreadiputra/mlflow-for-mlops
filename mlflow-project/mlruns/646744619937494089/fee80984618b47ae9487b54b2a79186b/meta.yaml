@@ -1,0 +1,16 @@
+artifact_uri: file:///home/theo/Documents/mlflow-project/mlruns/646744619937494089/fee80984618b47ae9487b54b2a79186b/artifacts
+deleted_time: 1717680117321
+end_time: 1717679807462
+entry_point_name: ''
+experiment_id: '646744619937494089'
+lifecycle_stage: deleted
+run_id: fee80984618b47ae9487b54b2a79186b
+run_name: clumsy-toad-549
+run_uuid: fee80984618b47ae9487b54b2a79186b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717679805943
+status: 3
+tags: []
+user_id: theo

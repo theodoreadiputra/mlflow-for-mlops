@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8236092970fa457290c1121e79e2bfab/artifacts
+deleted_time: 1717674612020
+end_time: 1717674440871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8236092970fa457290c1121e79e2bfab
+run_name: hyperparameter_optimization
+run_uuid: 8236092970fa457290c1121e79e2bfab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674394457
+status: 3
+tags: []
+user_id: theo

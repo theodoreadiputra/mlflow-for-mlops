@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/06257decc60a4002afb0836686a8d312/artifacts
+deleted_time: 1717676562355
+end_time: 1717674956735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 06257decc60a4002afb0836686a8d312
+run_name: flawless-bear-408
+run_uuid: 06257decc60a4002afb0836686a8d312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717674955426
+status: 3
+tags: []
+user_id: theo

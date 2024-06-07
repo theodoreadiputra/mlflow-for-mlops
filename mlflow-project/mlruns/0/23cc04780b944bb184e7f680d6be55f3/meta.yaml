@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/23cc04780b944bb184e7f680d6be55f3/artifacts
+deleted_time: 1717674617444
+end_time: 1717673851797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 23cc04780b944bb184e7f680d6be55f3
+run_name: caring-bird-884
+run_uuid: 23cc04780b944bb184e7f680d6be55f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673844375
+status: 3
+tags: []
+user_id: theo
