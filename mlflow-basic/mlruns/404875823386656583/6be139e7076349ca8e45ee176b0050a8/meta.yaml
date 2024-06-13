@@ -1,0 +1,15 @@
+artifact_uri: /home/theo/Documents/mlflow-for-mlops/mlflow-basic/testing_mlflow_artifacts/6be139e7076349ca8e45ee176b0050a8/artifacts
+end_time: 1718165874138
+entry_point_name: ''
+experiment_id: '404875823386656583'
+lifecycle_stage: active
+run_id: 6be139e7076349ca8e45ee176b0050a8
+run_name: testing
+run_uuid: 6be139e7076349ca8e45ee176b0050a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718165874134
+status: 3
+tags: []
+user_id: theo
